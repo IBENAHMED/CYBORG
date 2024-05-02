@@ -1,3 +1,8 @@
 .cyborg-navbar {
     min-height: 100px;
 }
+
+.navbar a {
+    color: var(--color-light);
+    font-weight: calc(var(--font-weight-normal) / 1.5);
+}
