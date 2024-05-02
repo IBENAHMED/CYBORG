@@ -1,9 +1,10 @@
+import { Link } from 'react-router-dom'
 import './Button.css'
 
 const PrimaryButton = (props) => {
     return (
         <div className='button primary-btn'>
-            <link to='./CYBORG'>{props.children}</link>
+            <Link to='./CYBORG'>{props.children}</Link>
         </div>
     )
 }
@@ -11,7 +12,7 @@ const PrimaryButton = (props) => {
 const SecondaryButton = (props) => {
     return (
         <div className='button secondary-btn'>
-            <link to='./CYBORG'>{props.children}</link>
+            <Link to='./CYBORG'>{props.children}</Link>
         </div>
     )
 }
