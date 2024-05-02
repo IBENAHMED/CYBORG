@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/CYBORGS/static/css/main.ff098b05.css",
-    "main.js": "/CYBORGS/static/js/main.33f4f1ed.js",
-    "static/media/banner-bg.jpg": "/CYBORGS/static/media/banner-bg.f41cb78948354a14694e.jpg",
-    "static/media/popular-05.jpg": "/CYBORGS/static/media/popular-05.fb754b91636cbce130d6.jpg",
-    "static/media/popular-06.jpg": "/CYBORGS/static/media/popular-06.193c1358cf48df9af86f.jpg",
-    "static/media/popular-08.jpg": "/CYBORGS/static/media/popular-08.126dd98013f11709e815.jpg",
-    "static/media/popular-02.jpg": "/CYBORGS/static/media/popular-02.4ccab5053dc3ac9400fb.jpg",
-    "static/media/popular-01.jpg": "/CYBORGS/static/media/popular-01.d591ee7091c3349e3472.jpg",
-    "static/media/popular-04.jpg": "/CYBORGS/static/media/popular-04.b68fb4322ccb2976873d.jpg",
-    "static/media/popular-07.jpg": "/CYBORGS/static/media/popular-07.bbef6817bf6ac3dcdb80.jpg",
-    "static/media/popular-03.jpg": "/CYBORGS/static/media/popular-03.1c8955f99df2b3b94391.jpg",
-    "index.html": "/CYBORGS/index.html",
-    "main.ff098b05.css.map": "/CYBORGS/static/css/main.ff098b05.css.map",
-    "main.33f4f1ed.js.map": "/CYBORGS/static/js/main.33f4f1ed.js.map"
+    "main.css": "/CYBORG/static/css/main.1d6d4fbd.css",
+    "main.js": "/CYBORG/static/js/main.34bcb5a6.js",
+    "static/media/banner-bg.jpg": "/CYBORG/static/media/banner-bg.f41cb78948354a14694e.jpg",
+    "static/media/popular-05.jpg": "/CYBORG/static/media/popular-05.fb754b91636cbce130d6.jpg",
+    "static/media/popular-06.jpg": "/CYBORG/static/media/popular-06.193c1358cf48df9af86f.jpg",
+    "static/media/popular-08.jpg": "/CYBORG/static/media/popular-08.126dd98013f11709e815.jpg",
+    "static/media/popular-02.jpg": "/CYBORG/static/media/popular-02.4ccab5053dc3ac9400fb.jpg",
+    "static/media/popular-01.jpg": "/CYBORG/static/media/popular-01.d591ee7091c3349e3472.jpg",
+    "static/media/popular-04.jpg": "/CYBORG/static/media/popular-04.b68fb4322ccb2976873d.jpg",
+    "static/media/popular-07.jpg": "/CYBORG/static/media/popular-07.bbef6817bf6ac3dcdb80.jpg",
+    "static/media/popular-03.jpg": "/CYBORG/static/media/popular-03.1c8955f99df2b3b94391.jpg",
+    "index.html": "/CYBORG/index.html",
+    "main.1d6d4fbd.css.map": "/CYBORG/static/css/main.1d6d4fbd.css.map",
+    "main.34bcb5a6.js.map": "/CYBORG/static/js/main.34bcb5a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff098b05.css",
-    "static/js/main.33f4f1ed.js"
+    "static/css/main.1d6d4fbd.css",
+    "static/js/main.34bcb5a6.js"
   ]
 }
