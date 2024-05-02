@@ -3,7 +3,7 @@ import './Button.css'
 const PrimaryButton = (props) => {
     return (
         <div className='button primary-btn'>
-            <a href='../'>{props.children}</a>
+            <link to='./CYBORG'>{props.children}</link>
         </div>
     )
 }
@@ -11,7 +11,7 @@ const PrimaryButton = (props) => {
 const SecondaryButton = (props) => {
     return (
         <div className='button secondary-btn'>
-            <a href='../'>{props.children}</a>
+            <link to='./CYBORG'>{props.children}</link>
         </div>
     )
 }
