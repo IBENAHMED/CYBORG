@@ -1,0 +1,17 @@
+/* .gaming-library-item { */
+/* flex: 1 100%; */
+/* } */
+
+.gaming-library-item ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    border-bottom: 1px solid var(--color-primary);
+    padding: calc(var(--padding-primary)/2);
+    gap: 15px;
+}
+
+.gaming-library-item h4 {
+    font-size: 1rem;
+}
