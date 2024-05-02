@@ -30,7 +30,7 @@ const Header = () => {
                                 <Link to="/contact" className="nav-link active" aria-current="page">Contact</Link>
                             </NavItem>
                             <NavItem>
-                                <Link to="Profile/" className="nav-link active" aria-current="page">Profile</Link>
+                                <Link to="/Profile" className="nav-link active" aria-current="page">Profile</Link>
                             </NavItem>
                         </ul>
                     </div>
