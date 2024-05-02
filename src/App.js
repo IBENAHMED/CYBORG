@@ -8,7 +8,7 @@ import { Home, Profile, About, Contact } from './pages/index';
 function App() {
     return (
         <>
-            <BrowserRouter basename={'/CYBORGS'}>
+            <BrowserRouter basename={'/CYBORG'}>
                 <Header />
                 <Container>
                     <Routes>
